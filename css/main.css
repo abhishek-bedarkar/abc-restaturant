@@ -1,0 +1,30 @@
+body {
+
+  background-image:url(../images/bg.jpg);
+   background-repeat:no-repeat;
+   background-size:cover;
+
+
+}
+.login{
+
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+
+}
+.logo{
+	margin-top: 2%;
+	color: white;
+	font-family: URW Chancery L;
+	font-weight: bolder;
+	font-size: 400%;
+	border-left: 5px white solid;
+
+
+
+}
+.cont{
+	margin: 20%;
+}
